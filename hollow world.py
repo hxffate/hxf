@@ -1,0 +1,3 @@
+
+
+print("hollow world");
